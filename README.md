@@ -10,7 +10,7 @@ Version 3, 29 June 2007. For details see 'LICENSE.md' in the root directory.
 [![Build Status](https://travis-ci.org/fast-project/migration-framework.svg?branch=master)](https://travis-ci.org/fast-project/migration-framework)
 
 Allows for initiating start, stop, and migration of virtual machines by means of MQTT messages.
-This is a fork from [https://github.com/rwth-os/migration-framework].
+This is a fork from https://github.com/rwth-os/migration-framework.
 
 ### Requirements
 * For migration-framework:
